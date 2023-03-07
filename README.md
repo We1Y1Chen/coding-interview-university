@@ -86,7 +86,7 @@
 
 This is my multi-month study plan for becoming a software engineer for a large company. 
 
-**Required:** 
+**Required:**
 * A little experience with coding (variables, loops, methods/functions, etc)
 * Patience
 * Time
@@ -323,6 +323,7 @@ When I did the study plan, I used 2 languages for most of it: C and Python
 This is my preference. You do what you like, of course.
 
 You may not need it, but here are some sites for learning a new language:
+
 - [Exercism](https://exercism.org/tracks)
 - [Codewars](http://www.codewars.com)
 - [Codility](https://codility.com/programmers/)

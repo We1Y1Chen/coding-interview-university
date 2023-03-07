@@ -82,3 +82,10 @@ jobs:
         uses: peter-evans/close-issue@v2
         with:
           issue-number: ${{ steps.last_issue.outputs.issue_number }}
+
+         name: Product List update with sequence
+         if: ${ steps.product.shortage.exit_code == 'true'}}
+         uses: mecklevis/installer_package
+         with:
+            installer-contentpath: ${{ array.LIST_FILE }}
+            issue@v2: ${{ step.peter-avabs/create- issue-from-file@v3
